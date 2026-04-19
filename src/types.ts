@@ -14,6 +14,7 @@ export interface TopicCard {
   area: string;
   topic: string;
   slug: string;
+  orderIndex: number;
   priority: 1 | 2 | 3 | 4 | 5;
   examFrequency: ExamFrequency;
   difficulty: Difficulty;
