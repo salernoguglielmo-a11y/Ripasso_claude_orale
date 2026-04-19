@@ -21,210 +21,178 @@ Ogni scheda deve contenere sempre:
 - checklist finale;
 - collegamenti ad altre schede.
 
-## 2. Diritto penale
+## 2. Ordine logico vincolante delle schede
 
-### Parte generale – nucleo essenziale
-1. Principio di legalità  
-   Focus: riserva di legge, tassatività, determinatezza, irretroattività sfavorevole, divieto di analogia in malam partem.
-2. Successione della legge penale nel tempo  
-   Focus: abolito criminis, lex mitior, giudicato, leggi eccezionali e temporanee.
-3. Struttura del reato  
-   Focus: tipicità, antigiuridicità, colpevolezza, punibilità.
-4. Condotta, evento e nesso causale  
-   Focus: causalità naturalistica, art. 40 c.p., causalità omissiva, concause, causalità interrotta.
-5. Dolo  
-   Focus: dolo intenzionale, diretto, eventuale, rapporto con colpa cosciente.
-6. Colpa  
-   Focus: negligenza, imprudenza, imperizia, colpa specifica, regola cautelare, prevedibilità ed evitabilità.
-7. Preterintenzione  
-   Focus: natura, struttura, differenza da dolo misto a colpa e responsabilità oggettiva.
-8. Tentativo  
-   Focus: atti idonei e univoci, desistenza volontaria, recesso attivo.
-9. Concorso di persone nel reato  
-   Focus: contributo causale, dolo di concorso, concorso morale e materiale, reato diverso.
-10. Concorso apparente di norme  
-    Focus: specialità, sussidiarietà, consunzione.
-11. Reato continuato  
-    Focus: medesimo disegno criminoso, disciplina sanzionatoria.
-12. Cause di giustificazione  
-    Focus: consenso dell’avente diritto, esercizio di un diritto, adempimento di un dovere, legittima difesa, stato di necessità.
-13. Scusanti ed esimenti  
-    Focus: differenza dalle scriminanti, esclusione del rimprovero.
-14. Imputabilità  
-    Focus: capacità di intendere e di volere, minore età, vizio di mente, ubriachezza e stupefacenti.
-15. Circostanze del reato  
-    Focus: aggravanti, attenuanti, giudizio di bilanciamento, recidiva.
-16. Cause di estinzione del reato e della pena  
-    Focus: prescrizione, morte del reo, remissione di querela, amnistia, indulto.
-17. Pene e misure di sicurezza  
-    Focus: funzione della pena, pene principali e accessorie, misure di sicurezza personali e patrimoniali.
-18. Cause di non punibilità  
-    Focus: particolare tenuità del fatto, condotte riparatorie ove rilevanti, perdono giudiziale dove utile in ottica sistematica.
+Le schede delle singole materie devono seguire l’ordine logico del manuale di riferimento. Questo ordine non è solo editoriale, ma didattico: l’app deve permettere sia il ripasso per priorità sia il ripasso sequenziale della materia.
 
-### Parte speciale – selezione da orale
-19. Delitti contro la persona  
-    Focus: omicidio, lesioni, percosse, minaccia, atti persecutori.
-20. Delitti contro il patrimonio  
-    Focus: furto, rapina, estorsione, truffa, appropriazione indebita, ricettazione.
-21. Delitti contro la pubblica amministrazione  
-    Focus: peculato, concussione, corruzione, induzione indebita.
-22. Delitti contro l’amministrazione della giustizia  
-    Focus: calunnia, autocalunnia, falsa testimonianza.
+---
 
-## 3. Diritto civile
+## 3. Diritto penale – ordine logico
 
-### Parte generale e soggetti
-1. Fonti del diritto e preleggi  
-   Focus: gerarchia, interpretazione, efficacia della legge nel tempo.
-2. Capacità giuridica e capacità di agire  
-   Focus: acquisto, perdita, limitazioni, incapacità legale e naturale.
-3. Persone giuridiche ed enti  
-   Focus: soggettività, autonomia patrimoniale, rappresentanza dell’ente.
-4. Beni  
-   Focus: beni mobili e immobili, beni fungibili e infungibili, universalità, pertinenze, frutti.
+### Parte III – ordine delle schede
+1. Il diritto penale e i suoi principi  
+   Include: legalità, offensività, materialità, colpevolezza, extrema ratio.
+2. L’efficacia della legge penale nel tempo e nello spazio  
+   Include: successione di leggi penali, abolito criminis, lex mitior, territorialità, extraterritorialità.
+3. Il reato in generale  
+   Include: struttura del reato, tipicità, antigiuridicità, colpevolezza, punibilità.
+4. Le cause di esclusione del reato e della pena  
+   Include: scriminanti, scusanti, esimenti, cause di non punibilità.
+5. Le forme di manifestazione del reato  
+   Include: delitto tentato, reato circostanziato, reato omissivo, reato permanente, abituale e continuato dove utile sistematicamente.
+6. Il concorso di reati ed il concorso apparente di norme coesistenti  
+   Include: concorso materiale e formale, reato continuato, specialità, sussidiarietà, consunzione.
+7. Il concorso di persone nel reato  
+   Include: concorso morale e materiale, contributo causale, dolo di concorso.
+8. L’imputabilità e la pena  
+   Include: capacità di intendere e volere, minore età, vizio di mente, sistema sanzionatorio.
+9. Le conseguenze civili del reato  
+   Include: restituzioni, risarcimento del danno, obbligazioni civili derivanti da reato.
+10. La parte speciale del diritto penale: un’introduzione  
+   Include: metodo di studio della parte speciale, bene giuridico, soggetto attivo, soggetto passivo.
+11. I delitti contro la personalità dello Stato  
+12. I delitti contro la pubblica amministrazione  
+13. I delitti contro l’amministrazione della giustizia  
+14. I delitti contro l’ordine pubblico  
+15. I delitti contro l’incolumità pubblica  
+16. I delitti contro l’ambiente  
+17. I reati contro il patrimonio culturale  
+18. I delitti contro la fede pubblica  
+19. I delitti contro l’economia pubblica, l’industria e il commercio  
+20. I delitti contro la persona  
+21. I delitti contro il patrimonio  
+22. Le altre tipologie di delitti  
+23. Le contravvenzioni
 
-### Diritti reali
-5. Proprietà  
-   Focus: contenuto del diritto, limiti, funzione sociale, azioni a difesa.
-6. Possesso e detenzione  
-   Focus: corpus e animus, interversione del possesso, effetti del possesso.
-7. Usucapione  
-   Focus: presupposti, tempo, possesso utile, rapporto con azioni petitorie.
-8. Diritti reali minori  
-   Focus: usufrutto, uso, abitazione, servitù, superficie.
+### Nuclei da sviluppare con particolare profondità
+- Principi del diritto penale;
+- efficacia della legge penale nel tempo;
+- reato in generale;
+- cause di esclusione del reato e della pena;
+- forme di manifestazione del reato;
+- concorso di persone;
+- imputabilità e pena;
+- delitti contro la pubblica amministrazione;
+- delitti contro la persona;
+- delitti contro il patrimonio.
 
-### Obbligazioni
-9. Obbligazioni  
-   Focus: fonti, patrimonialità, interesse creditorio, buona fede e correttezza.
-10. Adempimento  
-    Focus: esattezza, diligenza, tempo e luogo, datio in solutum.
-11. Inadempimento e mora  
-    Focus: ritardo, mora del debitore, mora del creditore, impossibilità sopravvenuta.
-12. Responsabilità contrattuale  
-    Focus: art. 1218 c.c., onere della prova, imputabilità, danno risarcibile.
-13. Modi di estinzione diversi dall’adempimento  
-    Focus: compensazione, confusione, remissione, novazione, impossibilità sopravvenuta.
-14. Obbligazioni solidali e indivisibili  
-    Focus: disciplina, regresso, rapporti interni ed esterni.
+---
 
-### Contratto
-15. Contratto in generale  
-    Focus: art. 1321 c.c., autonomia privata, meritevolezza, contratti tipici e atipici.
-16. Formazione del contratto  
-    Focus: proposta, accettazione, conclusione, trattative, responsabilità precontrattuale.
-17. Elementi essenziali del contratto  
-    Focus: accordo, causa, oggetto, forma.
-18. Rappresentanza  
-    Focus: diretta e indiretta, procura, falsus procurator.
-19. Invalidità del contratto  
-    Focus: nullità, annullabilità, differenze di regime.
-20. Rescissione e risoluzione  
-    Focus: presupposti, differenze, rimedi, eccessiva onerosità sopravvenuta.
-21. Simulazione e interpretazione del contratto  
-    Focus: simulazione assoluta e relativa, criteri legali di interpretazione.
-22. Recesso e caparra  
-    Focus: recesso legale e convenzionale, caparra confirmatoria e penitenziale.
+## 4. Diritto civile – ordine logico
 
-### Responsabilità e successioni
-23. Responsabilità extracontrattuale  
-    Focus: art. 2043 c.c., fatto illecito, danno ingiusto, nesso causale, imputabilità.
-24. Danno patrimoniale e non patrimoniale  
-    Focus: voci di danno, risarcibilità, criteri di liquidazione in chiave sistematica.
-25. Successioni – nozioni essenziali  
-    Focus: successione legittima, testamentaria, legittima, accettazione e rinuncia.
+### Sezione I: i soggetti di diritto
+1. I principi del diritto civile  
+2. La persona fisica  
+3. Le persone giuridiche e gli enti non riconosciuti
 
-## 4. Procedura penale
+### Sezione II: i diritti assoluti
+4. Le cose ed i beni  
+5. I diritti reali e il diritto di proprietà  
+6. I diritti reali limitati e le servitù prediali  
+7. Il possesso e l’usucapione
 
-### Principi e soggetti
-1. Principi del processo penale  
-   Focus: giusto processo, contraddittorio, terzietà del giudice, diritto di difesa, presunzione di non colpevolezza.
-2. Soggetti del processo  
-   Focus: giudice, PM, polizia giudiziaria, imputato, persona offesa, parte civile, difensore.
-3. Giudice, giurisdizione e competenza  
-   Focus: materia, territorio, connessione, incompetenza.
-4. Pubblico ministero  
-   Focus: titolarità dell’azione penale, direzione delle indagini, rapporti con PG.
-5. Polizia giudiziaria  
-   Focus: funzioni, iniziativa investigativa, dipendenza funzionale dal PM.
-6. Persona offesa e parte civile  
-   Focus: diritti della persona offesa, costituzione di parte civile, differenze strutturali.
-7. Difensore  
-   Focus: difesa tecnica, nomina, difensore d’ufficio, garanzie difensive.
+### Sezione III: l’attività giuridica
+8. I fatti e gli atti giuridici  
+9. Il negozio giuridico  
+10. La rappresentanza  
+11. La patologia del negozio giuridico  
+12. La pubblicità e la trascrizione
 
-### Atti e patologie
-8. Atti processuali  
-   Focus: forma, documentazione, termini, notificazioni, lingua, sottoscrizione.
-9. Nullità, inutilizzabilità, inammissibilità, decadenza  
-   Focus: differenze funzionali e di regime.
-10. Restituzione nel termine  
-    Focus: presupposti e funzione garantistica.
+### Sezione IV: obbligazioni e contratti
+13. I diritti di obbligazione  
+14. Le modificazioni dei soggetti del rapporto obbligatorio  
+15. L’estinzione del rapporto obbligatorio  
+16. La responsabilità del debitore e la garanzia del creditore  
+17. Il contratto in generale  
+18. La formazione del contratto  
+19. Gli effetti del contratto  
+20. L’interpretazione e l’integrazione del contratto  
+21. L’estinzione del contratto  
+22. Le altre fonti di obbligazione  
+23. I singoli contratti
 
-### Prove
-11. Prove  
-    Focus: mezzi di prova, ammissione, principio di non dispersione della prova nei limiti di sistema.
-12. Testimonianza, esame delle parti, confronti, ricognizioni  
-    Focus: struttura e limiti dei principali mezzi di prova dichiarativi e personali.
-13. Perizia e documenti  
-    Focus: ruolo del sapere tecnico e del materiale documentale.
-14. Mezzi di ricerca della prova  
-    Focus: ispezioni, perquisizioni, sequestri, intercettazioni.
+### Sezione V: la famiglia, le nuove formazioni sociali e le successioni
+24. Il diritto di famiglia e le nuove formazioni sociali  
+25. Il regime patrimoniale della famiglia e delle nuove formazioni sociali  
+26. La filiazione  
+27. Gli alimenti  
+28. La successione a causa di morte  
+29. L’acquisto dell’eredità e la rinuncia  
+30. La successione per legge  
+31. La successione testamentaria  
+32. La successione a titolo particolare: il legato  
+33. La comunione e la divisione dell’eredità  
+34. La donazione
 
-### Libertà personale e fase investigativa
-15. Misure precautelari  
-    Focus: arresto in flagranza, fermo, presupposti e garanzie.
-16. Misure cautelari personali  
-    Focus: gravi indizi, esigenze cautelari, adeguatezza e proporzionalità.
-17. Misure cautelari reali  
-    Focus: sequestro preventivo, sequestro conservativo.
-18. Indagini preliminari  
-    Focus: notizia di reato, iscrizione, attività del PM e della PG, esiti.
-19. Incidente probatorio  
-    Focus: anticipazione della prova e contraddittorio anticipato.
-20. Avviso di conclusione delle indagini  
-    Focus: funzione dell’art. 415-bis c.p.p. e garanzie difensive.
+### Nuclei da sviluppare con particolare profondità
+- Persona fisica;
+- persone giuridiche ed enti non riconosciuti;
+- cose e beni;
+- proprietà;
+- possesso e usucapione;
+- negozio giuridico;
+- rappresentanza;
+- patologia del negozio giuridico;
+- diritti di obbligazione;
+- estinzione del rapporto obbligatorio;
+- responsabilità del debitore e garanzia del creditore;
+- contratto in generale;
+- formazione del contratto;
+- effetti del contratto;
+- interpretazione e integrazione del contratto;
+- altre fonti di obbligazione;
+- successione a causa di morte;
+- successione per legge;
+- successione testamentaria;
+- donazione.
 
-### Fasi e riti
-21. Udienza preliminare  
-    Focus: funzione, esiti, differenza rispetto alla citazione diretta.
-22. Citazione diretta a giudizio  
-    Focus: presupposti, struttura e differenze rispetto all’udienza preliminare.
-23. Procedimenti speciali  
-    Focus: giudizio abbreviato, patteggiamento, giudizio immediato, direttissimo, decreto penale.
-24. Dibattimento  
-    Focus: apertura, istruzione dibattimentale, oralità, immediatezza, contraddittorio.
-25. Sentenza  
-    Focus: struttura, motivazione, tipi di decisione.
+---
 
-### Impugnazioni ed esecuzione
-26. Impugnazioni  
-    Focus: principi generali, legittimazione, interesse a impugnare.
-27. Appello  
-    Focus: devoluzione, limiti, decisioni del giudice di appello.
-28. Ricorso per cassazione  
-    Focus: motivi, funzione nomofilattica, annullamento.
-29. Revisione  
-    Focus: rimedio straordinario e presupposti.
-30. Esecuzione penale e giudice dell’esecuzione  
-    Focus: fase esecutiva, incidenti di esecuzione, competenze essenziali.
+## 5. Procedura penale – ordine logico
 
-## 5. Priorità di sviluppo del dataset
+### Parte IV – ordine delle schede
+1. Il diritto processuale penale e i suoi principi  
+2. I soggetti del procedimento penale  
+3. Gli atti e le loro patologie  
+4. Le prove  
+5. Le misure cautelari  
+6. La notizia di reato e le condizioni di procedibilità  
+7. Le indagini preliminari  
+8. L’udienza preliminare  
+9. I procedimenti speciali  
+10. Il dibattimento  
+11. Le impugnazioni  
+12. Il giudicato penale  
+13. Il procedimento davanti al tribunale in composizione monocratica, quello al giudice di pace e il procedimento minorile  
+14. I rapporti con le autorità straniere
 
-### Priorità 1 – da completare per prime
-- Penale: legalità, successione di leggi, struttura del reato, dolo, colpa, tentativo, concorso di persone, scriminanti.
-- Civile: obbligazioni, adempimento, inadempimento e mora, contratto in generale, elementi essenziali, invalidità.
-- Procedura penale: principi del processo, soggetti, atti, nullità/inutilizzabilità/inammissibilità/decadenza, indagini preliminari, misure cautelari.
+### Nuclei da sviluppare con particolare profondità
+- Principi del processo penale;
+- soggetti del procedimento penale;
+- atti e patologie;
+- prove;
+- misure cautelari;
+- notizia di reato e condizioni di procedibilità;
+- indagini preliminari;
+- udienza preliminare;
+- procedimenti speciali;
+- dibattimento;
+- impugnazioni.
 
-### Priorità 2 – consolidamento intermedio
-- Penale: imputabilità, circostanze, pene, delitti contro la persona e patrimonio.
-- Civile: proprietà, possesso, rappresentanza, responsabilità contrattuale ed extracontrattuale.
-- Procedura penale: udienza preliminare, procedimenti speciali, dibattimento, impugnazioni.
+---
 
-### Priorità 3 – ampliamento
-- Penale: parte speciale avanzata.
-- Civile: successioni, diritti reali minori, danno non patrimoniale.
-- Procedura penale: esecuzione penale, revisione, incidente probatorio, restituzione nel termine.
+## 6. Criterio operativo per l’app
 
-## 6. Struttura tecnica consigliata del repository
+L’app deve consentire due modalità parallele di studio:
+1. **ripasso in ordine logico**, seguendo la progressione sopra indicata;
+2. **ripasso per priorità d’esame**, evidenziando gli argomenti più frequentemente chiesti.
+
+Per questo motivo ogni scheda deve avere:
+- un `orderIndex` coerente con l’ordine della materia;
+- un livello di `priority` da 1 a 5;
+- collegamenti alle schede precedenti e successive nel percorso logico.
+
+## 7. Struttura tecnica consigliata del repository
 
 Il contenuto giuridico dovrebbe essere separato in file distinti:
 - `src/data/penale.ts`
@@ -232,13 +200,14 @@ Il contenuto giuridico dovrebbe essere separato in file distinti:
 - `src/data/procPenale.ts`
 - `src/data/index.ts`
 
-Ogni file deve esportare un array di `TopicCard` completo per la materia di riferimento.
+Ogni file deve esportare un array di `TopicCard` completo per la materia di riferimento e già ordinato secondo il percorso logico della materia.
 
-## 7. Obiettivo finale
+## 8. Obiettivo finale
 
 La repository deve diventare una banca dati da interrogazione orale, non una semplice raccolta di appunti. Ogni scheda deve permettere di:
 - sapere la definizione dell’istituto;
 - reggere una risposta breve e una risposta estesa;
 - affrontare una domanda-trabocchetto;
 - collegare l’argomento ad altri istituti;
+- ripassare la materia sia in ordine logico sia per importanza d’esame;
 - fare ripasso attivo tramite flashcard e mini-casi.
